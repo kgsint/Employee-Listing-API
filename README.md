@@ -1,4 +1,4 @@
-# Employee Management API with Laravel
+# Employee Listing API with Laravel
 
 ## Features 
 - Token-based authentication with Laravel Passport

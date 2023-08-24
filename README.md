@@ -35,3 +35,5 @@ Start development server
 ```
 php artisan serve
 ```
+
+You can also check [Postman Documentation](https://documenter.getpostman.com/view/22137988/2s9Y5VV52A)
